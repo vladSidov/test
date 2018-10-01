@@ -2,7 +2,7 @@
 Version=14.0
 Comments=
 Created=-0.0833333333333333
-LastUsed=43370.4507325347
+LastUsed=43371.4746664468
 
 [Groups]
 Groups=1
@@ -16,18 +16,27 @@ WordWrap0=0
 Scroll0.0.X=0
 Scroll0.0.Y=0
 IsSplitted0=0
-ZIndex0=1
+ZIndex0=2
 Group1=0
 File1=E:\Server\data\htdocs\test\index.html
-Cursor1.X=16
-Cursor1.Y=19
+Cursor1.X=68
+Cursor1.Y=21
 WordWrap1=0
 Scroll1.0.X=0
 Scroll1.0.Y=0
 IsSplitted1=0
 IsActive1=1
 ZIndex1=0
-Files=2
+Group2=0
+File2=E:\Server\data\htdocs\test2\index.html
+Cursor2.X=22
+Cursor2.Y=20
+WordWrap2=0
+Scroll2.0.X=0
+Scroll2.0.Y=0
+IsSplitted2=0
+ZIndex2=1
+Files=3
 
 [parameters]
 value=LCw
