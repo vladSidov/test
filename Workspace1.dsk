@@ -2,7 +2,7 @@
 Version=14.0
 Comments=
 Created=-0.0833333333333333
-LastUsed=43371.4746664468
+LastUsed=43374.4263968171
 
 [Groups]
 Groups=1
@@ -25,17 +25,17 @@ WordWrap1=0
 Scroll1.0.X=0
 Scroll1.0.Y=0
 IsSplitted1=0
-IsActive1=1
-ZIndex1=0
+ZIndex1=1
 Group2=0
 File2=E:\Server\data\htdocs\test2\index.html
-Cursor2.X=22
-Cursor2.Y=20
+Cursor2.X=14
+Cursor2.Y=24
 WordWrap2=0
 Scroll2.0.X=0
 Scroll2.0.Y=0
 IsSplitted2=0
-ZIndex2=1
+IsActive2=1
+ZIndex2=0
 Files=3
 
 [parameters]
